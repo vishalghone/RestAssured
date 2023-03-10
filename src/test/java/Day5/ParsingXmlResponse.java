@@ -22,7 +22,7 @@ public class ParsingXmlResponse {
 		  
 //		 .then()
 //		  .statusCode(200)
-//		  .body("page",equalTo(2))
+
 //		  .log().all();
 		  
 		  Assert.assertEquals(res.getStatusCode(),200);
